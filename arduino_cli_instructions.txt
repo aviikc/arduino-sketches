@@ -1,0 +1,1 @@
+arduino-cli upload -b arduino:avr:nano ~/dev/projects/arduino/hello_world_ledBlink -p /dev/ttyUSB2
